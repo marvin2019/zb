@@ -1,5 +1,5 @@
 更新时间2024-09-16,#genre#
-
+央视,#genre#
 CCTV-1 综合,http://avd.iptviptv.site:9694/hls/1/index.m3u8
 CCTV-2 财经,http://avd.iptviptv.site:9694/hls/2/index.m3u8
 CCTV-3 综艺,http://avd.iptviptv.site:9694/hls/3/index.m3u8
@@ -18,6 +18,8 @@ CCTV-14 少儿,http://avd.iptviptv.site:9694/hls/14/index.m3u8
 CCTV-15 音乐,http://avd.iptviptv.site:9694/hls/15/index.m3u8
 CCTV-16 奥林匹克,http://avd.iptviptv.site:9694/hls/16/index.m3u8
 CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
+
+省卫视,#genre#
 湖南卫视,http://avd.iptviptv.site:9694/hls/105/index.m3u8
 浙江卫视,http://avd.iptviptv.site:9694/hls/106/index.m3u8
 江苏卫视,http://avd.iptviptv.site:9694/hls/107/index.m3u8
@@ -128,6 +130,8 @@ CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
 宝鸡1,http://avd.iptviptv.site:9694/hls/401/index.m3u8
 宝鸡2,http://avd.iptviptv.site:9694/hls/402/index.m3u8
 扶风频道,http://avd.iptviptv.site:9694/hls/405/index.m3u8
+
+广东,#genre#
 广东卫视,http://avd.iptviptv.site:9694/hls/450/index.m3u8
 广东珠江,http://avd.iptviptv.site:9694/hls/451/index.m3u8
 大湾区卫视,http://avd.iptviptv.site:9694/hls/452/index.m3u8
@@ -141,6 +145,8 @@ CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
 潮州民生,http://avd.iptviptv.site:9694/hls/460/index.m3u8
 梅州导视,http://avd.iptviptv.site:9694/hls/461/index.m3u8
 广东导视(G导视),http://avd.iptviptv.site:9694/hls/462/index.m3u8
+
+广西,#genre#
 广西新闻,http://avd.iptviptv.site:9694/hls/470/index.m3u8
 广西综艺,http://avd.iptviptv.site:9694/hls/471/index.m3u8
 广西都市,http://avd.iptviptv.site:9694/hls/472/index.m3u8
@@ -153,6 +159,8 @@ CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
 南宁公共,http://avd.iptviptv.site:9694/hls/479/index.m3u8
 贺州综合,http://avd.iptviptv.site:9694/hls/480/index.m3u8
 玉林新闻,http://avd.iptviptv.site:9694/hls/488/index.m3u8
+
+河北,#genre#
 河北经济,http://avd.iptviptv.site:9694/hls/550/index.m3u8
 河北都市,http://avd.iptviptv.site:9694/hls/551/index.m3u8
 河北影视,http://avd.iptviptv.site:9694/hls/552/index.m3u8
@@ -160,6 +168,8 @@ CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
 河北公共,http://avd.iptviptv.site:9694/hls/554/index.m3u8
 河北农民,http://avd.iptviptv.site:9694/hls/555/index.m3u8
 河北杂技,http://avd.iptviptv.site:9694/hls/556/index.m3u8
+
+湖北,#genre#
 湖北经视,http://avd.iptviptv.site:9694/hls/570/index.m3u8
 湖北垄上,http://avd.iptviptv.site:9694/hls/571/index.m3u8
 湖北公共,http://avd.iptviptv.site:9694/hls/572/index.m3u8
@@ -167,6 +177,8 @@ CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
 湖北生活,http://avd.iptviptv.site:9694/hls/575/index.m3u8
 武汉新闻,http://avd.iptviptv.site:9694/hls/576/index.m3u8
 武汉电视剧,http://avd.iptviptv.site:9694/hls/577/index.m3u8
+
+江苏,#genre#
 房县新闻,http://avd.iptviptv.site:9694/hls/583/index.m3u8
 江苏体育休闲,http://avd.iptviptv.site:9694/hls/600/index.m3u8
 江苏城市,http://avd.iptviptv.site:9694/hls/601/index.m3u8
@@ -174,13 +186,19 @@ CCTV-17 农业高清,http://avd.iptviptv.site:9694/hls/17/index.m3u8
 江苏教育,http://avd.iptviptv.site:9694/hls/603/index.m3u8
 江苏综艺,http://avd.iptviptv.site:9694/hls/604/index.m3u8
 江苏新闻,http://avd.iptviptv.site:9694/hls/605/index.m3u8
+
+影视星空,#genre#
 CHC家庭影院,http://avd.iptviptv.site:9694/hls/700/index.m3u8
 CHC动作电影,http://avd.iptviptv.site:9694/hls/701/index.m3u8
 CHC影迷电影,http://avd.iptviptv.site:9694/hls/702/index.m3u8
 星空卫视,http://avd.iptviptv.site:9694/hls/703/index.m3u8
+
+影风云、台球网球,#genre#
 风云足球,http://avd.iptviptv.site:9694/hls/704/index.m3u8
 央视台球,http://avd.iptviptv.site:9694/hls/705/index.m3u8
 高尔夫网球,http://avd.iptviptv.site:9694/hls/706/index.m3u8
+
+其它,#genre#
 女性时尚,http://avd.iptviptv.site:9694/hls/707/index.m3u8
 世界地理,http://avd.iptviptv.site:9694/hls/708/index.m3u8
 怀旧剧场,http://avd.iptviptv.site:9694/hls/709/index.m3u8
@@ -190,19 +208,27 @@ CHC影迷电影,http://avd.iptviptv.site:9694/hls/702/index.m3u8
 中学生,http://avd.iptviptv.site:9694/hls/713/index.m3u8
 快乐垂钓,http://avd.iptviptv.site:9694/hls/714/index.m3u8
 天元围棋,http://avd.iptviptv.site:9694/hls/715/index.m3u8
+
+香港,#genre#
 凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
 凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
 凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+
+体育足球,#genre#
 重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
 新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8
 劲爆体育,http://avd.iptviptv.site:9694/hls/718/index.m3u8
 魅力足球,http://avd.iptviptv.site:9694/hls/719/index.m3u8
 北京体育,http://avd.iptviptv.site:9694/hls/800/index.m3u8
+
+淘,#genre#
 淘电影,http://avd.iptviptv.site:9694/hls/801/index.m3u8
 淘剧场,http://avd.iptviptv.site:9694/hls/802/index.m3u8
 淘娱乐,http://avd.iptviptv.site:9694/hls/803/index.m3u8
 淘baby,http://avd.iptviptv.site:9694/hls/804/index.m3u8
 淘精彩,http://avd.iptviptv.site:9694/hls/805/index.m3u8
+
+北京,#genre#
 北京文艺,http://avd.iptviptv.site:9694/hls/806/index.m3u8
 北京科教,http://avd.iptviptv.site:9694/hls/807/index.m3u8
 北京影视,http://avd.iptviptv.site:9694/hls/808/index.m3u8
@@ -211,6 +237,8 @@ CHC影迷电影,http://avd.iptviptv.site:9694/hls/702/index.m3u8
 北京新闻,http://avd.iptviptv.site:9694/hls/811/index.m3u8
 北京卡酷少儿,http://avd.iptviptv.site:9694/hls/812/index.m3u8
 北京国际,http://avd.iptviptv.site:9694/hls/813/index.m3u8
+
+国际港台,#genre#
 V音乐台,http://avd.iptviptv.site:9694/hls/1000/index.m3u8
 HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 今日俄罗斯,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
@@ -228,12 +256,13 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
 黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
 
-咪咕01,http://[2409:8087:1a01:df::400c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕01,#genre#
+咪咕-01,http://[2409:8087:1a01:df::400c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a01:df::400d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕01,http://[2409:8087:1a01:df::400e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕-01,http://[2409:8087:1a01:df::400e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a01:df::401a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a01:df::401b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕01,http://[2409:8087:1a01:df::401c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕-01,http://[2409:8087:1a01:df::401c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a01:df::402b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a01:df::402c]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a01:df::402d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -276,6 +305,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕-01,http://[2409:8087:1a09:df::4007]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕01,http://[2409:8087:1a09:df::4008]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕-01,http://[2409:8087:1a09:df::4026]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+
+咪咕02,#genre#
 咪咕02,http://[2409:8087:1a01:df::400a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕-02,http://[2409:8087:1a01:df::400d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕-02,http://[2409:8087:1a01:df::400e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
@@ -321,6 +352,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕-02,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕-02,http://[2409:8087:1a01:df::4078]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕-02,http://[2409:8087:1a01:df::4079]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+
+咪咕03,#genre#
 咪咕-03,http://[2409:8087:1a01:df::400d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕-03,http://[2409:8087:1a01:df::400e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕-03,http://[2409:8087:1a01:df::402f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
@@ -354,13 +387,19 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕-03,http://[2409:8087:1a01:df::4062]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕-03,http://[2409:8087:1a01:df::4070]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕-03,http://[2409:8087:1a09:df::400e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
+咪咕奥运,#genre#
 咪咕冬奥-雪上,http://gslbservzqhsw.itv.cmvideo ... 1000000006000270005
 咪咕冬奥-直击,http://gslbservzqhsw.itv.cmvideo ... 1000000006000270006
+
+咪咕精彩足球,#genre#
 咪咕精彩足球,http://[2409:8087:74f1:21::8]/000000001000PLTV/88888888/224/3221226506/index.m3u8
 咪咕精彩足球,http://[2409:8087:74f1:21::8]/000000001000PLTV/88888888/224/3221226508/index.m3u8
 咪咕精彩足球,http://gslbservzqhsw.itv.cmvideo ... 1000000006000270002
 咪咕全民热练,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/index.m3u8
 咪咕全民热练,http://gslbservzqhsw.itv.cmvideo ... 1000000006000270007
+
+咪咕视频,#genre#
 咪咕视频,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/TVOD//88888888/8/3221226398/index.m3u8
 咪咕视频,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/TVOD//88888888/8/3221226472/index.m3u8
 咪咕视频,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8
@@ -431,6 +470,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com ... 21226147/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com ... 21226398/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com ... 21226472/index.m3u8
+
+咪咕视频1,#genre#
 咪咕视频1,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
 咪咕视频1,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频1,http://[2409:8087:1a0a:df::4039]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
@@ -438,6 +479,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕视频1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
 咪咕视频1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频1,http://ottrrs.hl.chinamobile.com ... 21226124/index.m3u8
+
+咪咕视频2,#genre#
 咪咕视频2,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226147/index.m3u8
 咪咕视频2,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频2,http://[2409:8087:1a0a:df::4039]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226147/index.m3u8
@@ -462,6 +505,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕视频2,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频2,http://[2409:8087:74f1:21::8]/000000001000PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频2,http://ottrrs.hl.chinamobile.com ... 21226147/index.m3u8
+
+咪咕视频3,#genre#
 咪咕视频3,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
 咪咕视频3,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频3,http://[2409:8087:1a0a:df::4039]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
@@ -470,6 +515,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕视频3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频3,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频3,http://ottrrs.hl.chinamobile.com ... 21226398/index.m3u8
+
+咪咕视频4,#genre#
 咪咕视频4,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226472/index.m3u8
 咪咕视频4,http://[2409:8087:1a0a:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕视频4,http://[2409:8087:1a0a:df::4039]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226472/index.m3u8
@@ -480,6 +527,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕视频4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕视频4,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕视频4,http://ottrrs.hl.chinamobile.com ... 21226469/index.m3u8
+
+咪咕视频5,#genre#
 咪咕视频5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226472/index.m3u8
 咪咕视频5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕视频5,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
@@ -488,6 +537,8 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 咪咕视频64,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226147/index.m3u8
 咪咕视频65,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
 咪咕视频66,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226469/index.m3u8
+
+咪咕视频体育,#genre#
 咪咕体育,http://[2409:8087:2801:20:100::10]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235558/index.m3u8
 咪咕体育,http://[2409:8087:2801:20:100::10]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235589/index.m3u8
 咪咕体育,http://[2409:8087:2801:20:100::16]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235558/index.m3u8
